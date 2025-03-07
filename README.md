@@ -1,5 +1,4 @@
-<h1 align="center">� Hey, I'm [Your Name]!</h1>
-<h3 align="center">Frontend Engineer | Smart Contract Developer | Blockchain Enthusiast</h3>
+<h1 align="center">Frontend Engineer | Smart Contract Developer | Blockchain Enthusiast</h1>
 
 � Passionate about **decentralized technologies** and building **scalable, high-performance applications**.
 
@@ -44,8 +43,8 @@
 ## � GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=totoptech&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=totoptech&theme=radical" />
 </div>
 
 ---
