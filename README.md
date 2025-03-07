@@ -9,7 +9,7 @@
 - 🔍 Exploring **Web3, DeFi, and AI-powered applications**.
 - ⛓️ Building with **Solidity, Ethereum, The Graph, and decentralized protocols**.
 - 🌍 Currently focused on **full-stack blockchain applications and subgraph integrations**.
-- 📩 Let's connect: **[your.email@example.com](mailto:your.email@example.com)**.
+- 📩 Let's connect: **[sakamotok86@gmail.com](mailto:sakamotok86@gmail.com)**.
 
 ---
 
@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=totoptech&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=totoptech&theme=radical" />
 </div>
 
 ---
