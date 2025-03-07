@@ -32,6 +32,14 @@
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%23092E20.svg?style=for-the-badge&logo=openzeppelin&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%23646CFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
+### **Blockchain Networks**
+![Ethereum](https://img.shields.io/badge/Ethereum-%236C3EC7.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-%23844AFF.svg?style=for-the-badge&logo=polygon&logoColor=white)
+![Binance Smart Chain](https://img.shields.io/badge/Binance%20Smart%20Chain-%23F3BA2F.svg?style=for-the-badge&logo=binance&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-%234957EC.svg?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-%23FF0420.svg?style=for-the-badge&logo=optimism&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-%23E84142.svg?style=for-the-badge&logo=avalanche&logoColor=white)
+
 ### **Backend & DevOps**
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -45,5 +53,7 @@
 
 🔥 **"The best projects come from passion and curiosity!"**  
 When I first started exploring blockchain, I was fascinated by how smart contracts could automate trust. What began as a curiosity turned into a deep dive into Solidity, Ethereum, and Web3 development.  
+
 🚀 The decentralized future is being built by developers who push boundaries and think outside the box. Whether it's coding, optimizing smart contracts, or architecting scalable DApps, every line of code is a step toward innovation.  
-💡 Always stay curious, keep experimenting, and **never stop building!**  
+
+💡 The Web3 space evolves rapidly, and staying ahead requires constant learning. I believe in **experimenting, breaking things, and building solutions that truly make a difference**. If you're working on something exciting in the blockchain space, let's connect and build together!
