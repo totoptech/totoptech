@@ -1,11 +1,11 @@
-<h1 align="center">Frontend Engineer | Smart Contract Developer | Blockchain Enthusiast</h1>
+<h1 align="center">Full Stack Engineer | Smart Contract Developer | Blockchain Enthusiast</h1>
 
 🚀 Passionate about **decentralized technologies** and building **scalable, high-performance applications**.
 
 ---
 
 ## 🧐 About Me
-- 💻 Experienced in **Frontend Engineering, Smart Contract Development, and Subgraphs**.
+- 💻 Experienced in **Full Stack Development, Smart Contract Development, and Subgraphs**.
 - 🔍 Exploring **Web3, DeFi, and AI-powered applications**.
 - ⛓️ Building with **Solidity, Ethereum, The Graph, and decentralized protocols**.
 - 🌍 Currently focused on **full-stack blockchain applications and subgraph integrations**.
